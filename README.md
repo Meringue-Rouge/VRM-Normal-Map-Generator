@@ -11,5 +11,9 @@ The procedure is pretty slow, but there is a progress bar.
 
 This was made so that RPG Developer Bakin users can easily add Normal maps for their models, but it can be used for any other situation.
 
+This removes what was assigned as a normal map on the VRM model with the new result. Export as a VRM for the software of your choice.
+
 ## To Do
 - Add a prompt to filter out specific materials after starting (ex: disable skirt normals, top, etc).
+
+Thanks to Grok 3 as usual for being a very helpful tool.
