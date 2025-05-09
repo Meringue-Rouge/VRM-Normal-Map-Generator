@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "vrm_normal_map_generator"
+version = "1.3.0"
+name = "VRM Normal Map Generator"
+tagline = "Generates DirectX normal maps for VRM 1.0 materials (SKIN, CLOTH, HAIR) asynchronously"
+maintainer = "Meringue Rouge"
+type = "add-on"
+website = "https://github.com/Meringue-Rouge"
+tags = ["VRM", "Materials", "Normal Map", "Animation"]
+blender_version_min = "3.0.0"
+license = ["SPDX:MIT"]
+copyright = ["2025 Meringue Rouge"]
